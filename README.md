@@ -1,5 +1,7 @@
 **EMPLOYEE ATTRITION PREDICTOR**
+
 **Project Overview**
+
 This project is a machine learning application that predicts whether an employee is likely to leave the company based on multiple HR-related factors. The application uses XGBoost Classifier with GridSearchCV tuning, built into a Streamlit web interface for easy prediction.
 
 **Objective**
